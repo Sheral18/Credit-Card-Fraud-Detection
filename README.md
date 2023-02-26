@@ -1,1 +1,2 @@
 # Credit-Card-Fraud-Detection
+In this project credit card fraud detection is done by first using the undersampling and applying decision tree,random forest and logistic regression .Accuracy ,f1 score and recall is measured .Later on oversampling is applied on the same dataset and same set algorithms decision tree,random forest and logistic regression is applied.We can draw a conclusion that the accuracy acheived after applying oversampling is better in comparison with undersampling . And also Random forest gave the best accuracy among all of these.
